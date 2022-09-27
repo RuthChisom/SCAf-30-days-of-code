@@ -1,7 +1,6 @@
 # SCA-30-days-of-code
- She Code Africa 30 days of code
 
-Day 1
+Day 1 - Running a Django Project
 
 1. Create a new Django project. (install python if not already on your system)
     - python -m venv venv
@@ -12,6 +11,6 @@ Day 1
     - python manage.py startapp users
     - python manage.py startapp profiles  ....and so on
 3. Connect the apps to your core project settings.
-- add 'users.apps.UsersConfig' in core/settings.py   ....and so on
+    - add 'users.apps.UsersConfig' in core/settings.py, under INSTALLED_APPS   ....and so on
 4. Run your server.
     - python manage.py runserver
