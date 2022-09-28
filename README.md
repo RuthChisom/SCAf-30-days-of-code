@@ -1,5 +1,5 @@
 # SCA-30-days-of-code
- She Code Africa 30 days of code
+ Setting up a new Django Project
 
 Day 1
 
