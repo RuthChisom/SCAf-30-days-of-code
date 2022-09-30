@@ -1,8 +1,4 @@
 # SCA-30-days-of-code
-<<<<<<< HEAD
-=======
- Setting up a new Django Project
->>>>>>> 89030f9b6b2524ec98dbd4c828eb63577297b8c0
 Day 1 - Setting up a new Django Project
 
 1. Create a new Django project. (install python if not already on your system)
