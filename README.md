@@ -1,5 +1,4 @@
-# SCA-30-days-of-code
-Day 1 - Setting up a new Django Project
+# Setting up a new Django Project
 
 1. Create a new Django project. (install python if not already on your system)
     - python -m venv venv
